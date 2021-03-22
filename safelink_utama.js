@@ -23,7 +23,7 @@ var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
 if(x=="1"){xxx="what-is-data-science.html"}
 if(x=="2"){xxx="raid-data-recovery-tips-and-tricks.html"}
-if(x=="3"){xxx="raid-data-recovery-guide-and-tips.html"}a_to_ve[i].href="https://www.tapisnews.com/2020/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="3"){xxx="raid-data-recovery-guide-and-tips.html"}a_to_ve[i].href="https://data.satudesain.com/2020/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
